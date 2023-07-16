@@ -243,3 +243,5 @@ The closure is only executed if the link with a relation `restbucks:cancel` is a
 It then enables the button and registers `CancelOrder` action for execution on invocation.
 
 TODO - complete
+
+https://stackoverflow.com/questions/38874746/is-it-problematic-that-spring-data-rest-exposes-entities-via-rest-resources-with/38876046#38876046
